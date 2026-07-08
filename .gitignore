@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Environment
+.env
+
+# ML models and training artifacts
+backend/training/results/
+backend/models/deberta_classifier/
+
+# Dataset
+datasets/
+
+# Logs
+*.log
